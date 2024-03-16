@@ -1,50 +1,55 @@
 ---
 # Display name
-title: 吳健雄
+title: Oke Bahnsen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Oke Bahnsen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Oke
+last_name: Bahnsen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Mannheim
+    url: https://www.uni-mannheim.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include coalition politics, voting behavior, experimental research, and agent-based
+  modeling.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Coalition Politics
+  - Electoral Behavior
+  - Causal Inference
+  - Experimental Research
+  - Agent-Based Modeling
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Candidate, 2024
+    institution: Graduate School of Economic and Social Sciences, University of Mannheim
+    - course: M.Sc. in Economics
+    institution: University of Kiel
+    year: 2019
+    - course: M.Ed. in Mathematics and Economics/Politics
+    institution: University of Kiel
+    year: 2017
+    - course: B.A. in Mathematics and Economics/Politics
+    institution: University of Kiel
+    year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,28 +98,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: '#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/okebahnsen
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+    link: https://github.com/OkeBahnsen
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=Xd7NWT4AAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0003-3198-2804
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Bahnsen_Academic_CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
