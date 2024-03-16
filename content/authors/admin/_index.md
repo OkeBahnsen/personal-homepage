@@ -39,9 +39,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candidate, 2024
+    - course: PhD Candidate
       institution: Graduate School of Economic and Social Sciences, University of Mannheim
-      year: 2012
+      year: 2024
     - course: M.Sc. in Economics
       institution: University of Kiel
       year: 2019
@@ -126,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a computational social scientist and behavioral economist with a background in mathematics and a passion for the quantitative modeling of political behavior. I will obtain a Ph.D. from the [Graduate School of Economic and Social Sciences (GESS)](https://gess.uni-mannheim.de/) at the [University of Mannheim](https://www.uni-mannheim.de/en/). My substantial research focuses on **coalition politics** and **electoral behavior**, especially on pre-electoral coalition politics and how it affects electoral behavior. Methodologically, I am interested in **experimental research** conducted both in the laboratory and through large-scale population-based surveys. I am also engaged in **agent-based modeling**, which I use to study party competition and opinion dynamics.
 {style="text-align: justify;"}
