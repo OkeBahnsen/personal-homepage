@@ -39,15 +39,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD Candidate, 2024
+      institution: Graduate School of Economic and Social Sciences, University of Mannheim
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Sc. in Economics
+      institution: University of Kiel
+      year: 2019
+    - course: M.Ed. in Mathematics and Economics/Politics
+      institution: University of Kiel
+      year: 2017
+    - course: B.A. in Mathematics and Economics/Politics
+      institution: University of Kiel
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
