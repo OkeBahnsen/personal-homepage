@@ -39,7 +39,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candidate, 2024
+    - course: PhD Candidate, 2024 
     institution: Graduate School of Economic and Social Sciences, University of Mannheim
     - course: M.Sc. in Economics
     institution: University of Kiel
