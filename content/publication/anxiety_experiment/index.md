@@ -15,7 +15,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2022-12-01T00:00:00Z'
-doi: 'https://doi.org/10.3389/fpsyg.2022.1006757'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
