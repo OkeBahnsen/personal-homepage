@@ -171,10 +171,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Coalition Politics and Political Behavior
+          tag: Coalition Politics
+        - name: Anxiety Politics and Political Behavior
+          tag: Anxiety Politics
         - name: Other
-          tag: Demo
+          tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
@@ -197,16 +199,6 @@ sections:
         folders:
           - publication
         featured_only: true
-      default_button_index: 0
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Coalition Politics and Political Behavior
-          tag: Coalition Politics
-        - name: Anxiety Politics and Political Behavior
-          tag: Anxiety Politics
-        - name: Other
-          tag: Other
     design:
       columns: '2'
       view: card
