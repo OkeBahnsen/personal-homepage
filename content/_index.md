@@ -171,9 +171,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Coalition Politics and Political Behavior
+        - name: Coalition Politics
           tag: Coalition Politics
-        - name: Anxiety Politics and Political Behavior
+        - name: Anxiety Politics
           tag: Anxiety Politics
         - name: Other
           tag: Other
