@@ -26,8 +26,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: *Frontiers in Psychology 13*
-publication_short: *Frontiers in Psychology 13*
+publication: "*Frontiers in Psychology 13*"
+publication_short: "*Frontiers in Psychology 13*"
 
 abstract: Previous research suggests that state anxiety may sway political attitudes. However, previous experimental procedures induced anxiety using political contexts (e.g., social or economic threat). In a pre-registered laboratory experiment, we set out to examine if anxiety that is unrelated to political contexts can influence political attitudes. We induced anxiety with a threat of shock paradigm, void of any political connotation. Our results suggest that state anxiety by itself does not sway political attitudes.
 
@@ -74,7 +74,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - example 
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
