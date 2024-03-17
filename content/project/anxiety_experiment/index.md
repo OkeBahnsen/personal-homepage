@@ -9,7 +9,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 tags:
-  - Emotions and Political Behavior
+  - Anxiety Politics
 date: '2022-12-01T00:00:00Z'
 lastmod: '2022-12-01T00:00:00Z'
 publication: "*Frontiers in Psychology 13*"
