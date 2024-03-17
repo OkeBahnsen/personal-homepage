@@ -197,6 +197,15 @@ sections:
         folders:
           - publication
         featured_only: true
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Coalition Politics and Political Behavior
+          tag: Coalition Politics
+        - name: Anxiety Politics and Political Behavior
+          tag: Anxiety Politics
+        - name: Other
+          tag: Other
     design:
       columns: '2'
       view: card

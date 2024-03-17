@@ -11,6 +11,7 @@ author_notes:
 tags:
   - Emotions and Political Behavior
 date: '2022-12-01T00:00:00Z'
+lastmod: '2022-12-01T00:00:00Z'
 publication: "*Frontiers in Psychology 13*"
 publication_short: "*Frontiers in Psychology 13*"
 
