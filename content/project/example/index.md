@@ -1,15 +1,24 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: "State Anxiety by Itself Does Not Change Political Attitudes: A Threat of Shock Experiment"
+summary: Previous research suggests that state anxiety may sway political attitudes. However, previous experimental procedures induced anxiety using political contexts (e.g., social or economic threat). In a pre-registered laboratory experiment, we set out to examine if anxiety that is unrelated to political contexts can influence political attitudes. We induced anxiety with a threat of shock paradigm, void of any political connotation. Our results suggest that state anxiety by itself does not sway political attitudes.
+authors:
+- Ulrich W. D. Müller
+- admin
+- Georg W. Alpers
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Emotions and Political Behavior
+date: '2022-12-01T00:00:00Z'
+publication: "*Frontiers in Psychology 13*"
+publication_short: "*Frontiers in Psychology 13*"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Own illustration
   focal_point: Smart
 
 links:
@@ -21,6 +30,8 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+
+summary: Previous research suggests that state anxiety may sway political attitudes. However, previous experimental procedures induced anxiety using political contexts (e.g., social or economic threat). In a pre-registered laboratory experiment, we set out to examine if anxiety that is unrelated to political contexts can influence political attitudes. We induced anxiety with a threat of shock paradigm, void of any political connotation. Our results suggest that state anxiety by itself does not sway political attitudes.
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
