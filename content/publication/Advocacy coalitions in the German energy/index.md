@@ -1,8 +1,8 @@
 ---
 title: "Advocacy Coalitions in the German Energy Policy: A Discourse Analysis of the German Renewable Energy Act Amendment 2014"
 authors:
-- Eric Linhart
 - admin
+- Eric Linhart
 - Jale Tosun
 
 date: "2016-08-01T00:00:00Z"
