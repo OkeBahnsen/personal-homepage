@@ -34,7 +34,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'http://www.ronilehrer.com/docs/papers/crises_approval_fear_threat.pdf'
+url_pdf: 'https://www.sowi.uni-mannheim.de/media/Lehrstuehle/sowi/Gschwend/Articel/Coalitioan_Signals_Newspaper-3.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
