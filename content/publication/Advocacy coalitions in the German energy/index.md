@@ -3,7 +3,9 @@ title: "Advocacy Coalitions in the German Energy Policy: A Discourse Analysis of
 authors:
 - Eric Linhart
 - admin
-date: "2020-12-01T00:00:00Z"
+- Jale Tosun
+
+date: "2016-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

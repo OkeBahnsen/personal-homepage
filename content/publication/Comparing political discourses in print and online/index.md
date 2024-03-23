@@ -1,8 +1,10 @@
 ---
 title: "Comparing Political Discourses in Print and Online Media: An Empirical Analysis of the German Renewable Energy Act Amendment 2014"
 authors:
+- admin
+- Eric Linhart
 
-date: "2019-11-27T00:00:00Z"
+date: "2019-12-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper (Under Review)*"
-publication_short: "*Working Paper (Under Review)*"
+publication: "*Zeitschrift für Diskursforschung 6(3), pp. 277-305*"
+publication_short: "*Zeitschrift für Diskursforschung 6(3), pp. 277-305*"
 
 abstract: With the emergence of digital technologies, the mass media exploited new distribution channels. This differentiation of communication platforms led to a fragmentation of the public sphere. Based on a comparative discourse analysis on the German Renewable Energy Act Amendment 2014, including both print and online media, this article investigates the influence of media platforms on the public discourse. We find that, in our application, the online and print discourses differ significantly from each other with regard to both the standing of actors and the framing of the main arguments. This variation is on a similar level to the differences between newspaper publishers. Despite this variation, the main structures of the print media and the online media discourses do not differ fundamentally.
 
