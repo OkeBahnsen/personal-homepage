@@ -11,7 +11,7 @@ authors:
 - Henrik K. Andersen
 - Daniel Auer
 - Flavio Azevedo
-- admin
+- admin 
 - "et al."
 
 date: "2022-10-27T00:00:00Z"
@@ -30,17 +30,17 @@ publication_types: ["2"]
 publication: "*Proceedings of the National Academy of Sciences of the USA (PNAS) 119 (44), pp. 1-8*"
 publication_short: "*Proceedings of the National Academy of Sciences of the USA (PNAS) 119 (44), pp. 1-8*"
 
-abstract: 
+abstract: This study explores how researchers' analytical choices affect the reliability of scientific findings. Most discussions of reliability problems in science focus on systematic biases. We broaden the lens to emphasize the idiosyncrasy of conscious and unconscious decisions that researchers make during data analysis. We coordinated 161 researchers in 73 research teams and observed their research decisions as they used the same data to independently test the same prominent social science hypothesis: that greater immigration reduces support for social policies among the public. In this typical case of social science research, research teams reported both widely diverging numerical findings and substantive conclusions despite identical start conditions. Researchers' expertise, prior beliefs, and expectations barely predict the wide variation in research outcomes. More than 95% of the total variance in numerical results remains unexplained even after qualitative coding of all identifiable decisions in each team's workflow.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: This study explores how researchers' analytical choices affect the reliability of scientific findings. Most discussions of reliability problems in science focus on systematic biases. We broaden the lens to emphasize the idiosyncrasy of conscious and unconscious decisions that researchers make during data analysis. We coordinated 161 researchers in 73 research teams and observed their research decisions as they used the same data to independently test the same prominent social science hypothesis: that greater immigration reduces support for social policies among the public. In this typical case of social science research, research teams reported both widely diverging numerical findings and substantive conclusions despite identical start conditions. Researchers' expertise, prior beliefs, and expectations barely predict the wide variation in research outcomes. More than 95% of the total variance in numerical results remains unexplained even after qualitative coding of all identifiable decisions in each team's workflow.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-url_pdf: 'http://www.ronilehrer.com/docs/papers/crises_approval_fear_threat.pdf'
+url_pdf: 'https://www.pnas.org/doi/10.1073/pnas.2203150119'
 url_code: ''
 url_dataset: ''
 url_poster: ''
