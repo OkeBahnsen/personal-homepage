@@ -11,8 +11,8 @@ authors:
 - Henrik K. Andersen
 - Daniel Auer
 - Flavio Azevedo
-- Oke Bahnsen 
-- et al.
+- admin
+- "et al."
 
 date: "2022-10-27T00:00:00Z"
 doi: ""
