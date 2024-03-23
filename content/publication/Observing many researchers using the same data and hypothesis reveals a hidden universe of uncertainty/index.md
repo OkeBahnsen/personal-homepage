@@ -12,7 +12,7 @@ authors:
 - Daniel Auer
 - Flavio Azevedo
 - admin 
-- Dave Balzer, et al.
+- et al.
 
 date: "2022-10-27T00:00:00Z"
 doi: ""

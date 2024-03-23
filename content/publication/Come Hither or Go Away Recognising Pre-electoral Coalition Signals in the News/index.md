@@ -21,12 +21,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 7798-7810*"
-publication_short: "*EMNLP 2021, pp. 7798-7810*"
+publication_short: "*Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP), pp. 7798-7810*"
 
-abstract: In this paper, we introduce the task of political coalition signal prediction from text, that is, the task of recognizing from the news coverage leading up to an election the (un)willingness of political parties to form a government coalition.
+abstract: In this paper, we introduce the task of political coalition signal prediction from text, that is, the task of recognizing from the news coverage leading up to an election the (un)willingness of political parties to form a government coalition. We decompose our problem into two related, but distinct tasks: (i) predicting whether a reported statement from a politician or a journalist refers to a potential coalition and (ii) predicting the polarity of the signal – namely, whether the speaker is in favour of or against the coalition. For this, we explore the benefits of multi-task learning and investigate which setup and task formulation is best suited for each sub-task. We evaluate our approach, based on hand-coded newspaper articles, covering elections in three countries (Ireland, Germany, Austria) and two languages (English, German). Our results show that the multi-task learning approach can further improve results over a strong monolingual transfer learning baseline.
 
 # Summary. An optional shortened abstract.  
-summary: 
+summary: In this paper, we introduce the task of political coalition signal prediction from text, that is, the task of recognizing from the news coverage leading up to an election the (un)willingness of political parties to form a government coalition. We decompose our problem into two related, but distinct tasks: (i) predicting whether a reported statement from a politician or a journalist refers to a potential coalition and (ii) predicting the polarity of the signal – namely, whether the speaker is in favour of or against the coalition. For this, we explore the benefits of multi-task learning and investigate which setup and task formulation is best suited for each sub-task. We evaluate our approach, based on hand-coded newspaper articles, covering elections in three countries (Ireland, Germany, Austria) and two languages (English, German). Our results show that the multi-task learning approach can further improve results over a strong monolingual transfer learning baseline.
 
 tags:
 - Source Themes

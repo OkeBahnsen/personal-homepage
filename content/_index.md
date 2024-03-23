@@ -195,7 +195,7 @@ sections:
     id: featured
     content:
       title: Featured Publications
-      count: 10
+      count: 15
       filters:
         folders:
           - publication
