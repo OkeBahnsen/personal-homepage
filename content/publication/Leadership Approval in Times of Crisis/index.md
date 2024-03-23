@@ -23,10 +23,10 @@ publication_types: ["2"]
 publication: "*Working Paper (Under Review)*"
 publication_short: "*Working Paper (Under Review)*"
 
-abstract:
+abstract: In times of crisis, citizens tend to increase their approval of the government and its leader which might shift the balance of power. This ‘rally effect’ is a persistent empirical regularity, however, the literature does not identify its underlying causal mechanisms. We argue that crises induce threat and anxiety, and theorize that perceived threat increases approval of the incumbent leader, whereas anxiety decreases it. By analyzing German panel data from the COVID-19 pandemic, we causally identify both mechanisms and provide systematic evidence supporting this theory. Moreover, we increase the scope of our theory and show that both mechanisms are also at work when citizens approve cabinet members who manage key port- folios. Finally, we also leverage a comparative survey design across eleven countries to show that our evidence generalizes beyond a single country. Our findings have highly important implications for our understanding of the rally effect and crises politics in democracies.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: In times of crisis, citizens tend to increase their approval of the government and its leader which might shift the balance of power. This ‘rally effect’ is a persistent empirical regularity, however, the literature does not identify its underlying causal mechanisms. We argue that crises induce threat and anxiety, and theorize that perceived threat increases approval of the incumbent leader, whereas anxiety decreases it. By analyzing German panel data from the COVID-19 pandemic, we causally identify both mechanisms and provide systematic evidence supporting this theory. Moreover, we increase the scope of our theory and show that both mechanisms are also at work when citizens approve cabinet members who manage key port- folios. Finally, we also leverage a comparative survey design across eleven countries to show that our evidence generalizes beyond a single country. Our findings have highly important implications for our understanding of the rally effect and crises politics in democracies.
 
 tags:
 - Source Themes
