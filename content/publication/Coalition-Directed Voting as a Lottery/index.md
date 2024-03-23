@@ -4,7 +4,7 @@ authors:
 - admin
 - Lukas F. Stoetzer
 - Thomas Gschwend
-date: "2022-01-27T00:00:00Z"
+date: "2023-03-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,8 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*"
-publication_short: "*Working Paper*"
+publication: "*Working Paper (Under Review)*"
+publication_short: "*Working Paper (Under Review)*"
 
 abstract: When voters support parties in multi-party democracies, it is often uncertain what coalition government the party is likely to join.  How do voters deal with this type of uncertainty? In this paper, we use a conceptual analogy between coalition-directed voting and participating in a lottery to develop a novel conceptualization of coalition-directed voting. We present observational and experimental evidence that supports the idea that voters are risk-averse when considering coalition government options. The perception of uncertain coalition prospects of a party negatively affects the propensity to vote for parties, even when holding the expected coalition government payoffs constant. In a survey vignette experiment during the 2021 German federal election, we find that uncertain coalition prospects reduce the propensity to support a party, compared to certain coalition prospects with the same expected coalition government payoffs. The findings provide important insights for research on strategic voting theories and parties’ coalition strategies.
 
@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'https://www.sowi.uni-mannheim.de/media/Lehrstuehle/sowi/Gschwend/Articel/Stoetzer202110_Risk_Preferences_MZESDraft.pdf'
+url_pdf: 'https://www.sowi.uni-mannheim.de/media/Lehrstuehle/sowi/Gschwend/Articel/Paper_Risk_Preferences_AuthorDetails.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

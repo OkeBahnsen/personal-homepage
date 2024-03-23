@@ -1,5 +1,5 @@
 ---
-title: "Leadership Approval in Times of Crisis"
+title: "Crisis Leadership Approval: The Opposing Effects of Perceived Threat and Anxiety"
 authors:
 - Roni Lehrer
 - admin
@@ -7,7 +7,7 @@ authors:
 - Marcel Neunhoeffer
 - Thomas Gschwend
 - Sebastian Juhl
-date: "2021-08-27T00:00:00Z"
+date: "2023-11-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,8 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*"
-publication_short: "*Working Paper*"
+publication: "*Working Paper (Under Review)*"
+publication_short: "*Working Paper (Under Review)*"
 
 abstract:
 
@@ -33,7 +33,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 
+url_pdf: 'http://www.ronilehrer.com/docs/papers/crises_approval_fear_threat.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
