@@ -18,10 +18,10 @@ publication_types: ["2"]
 publication: "*Working Paper (Under Review)*"
 publication_short: "*Working Paper (Under Review)*"
 
-abstract:
+abstract: With the emergence of digital technologies, the mass media exploited new distribution channels. This differentiation of communication platforms led to a fragmentation of the public sphere. Based on a comparative discourse analysis on the German Renewable Energy Amendment Act 2014, including both print and online media, this article investigates the influence of media platforms on the public discourse. We find that, in our application, the online and print discourses differ significantly from each other with regard to both the standing of actors and the framing of the main arguments. This variation is on a similar level to the differences between newspaper publishers. Despite this variation, the main structures of the print media and the online media discourses do not differ fundamentally.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: With the emergence of digital technologies, the mass media exploited new distribution channels. This differentiation of communication platforms led to a fragmentation of the public sphere. Based on a comparative discourse analysis on the German Renewable Energy Amendment Act 2014, including both print and online media, this article investigates the influence of media platforms on the public discourse. We find that, in our application, the online and print discourses differ significantly from each other with regard to both the standing of actors and the framing of the main arguments. This variation is on a similar level to the differences between newspaper publishers. Despite this variation, the main structures of the print media and the online media discourses do not differ fundamentally.
 
 tags:
 - Source Themes
