@@ -12,7 +12,7 @@ authors:
 - Daniel Auer
 - Flavio Azevedo
 - admin 
-- "et al."
+- " et al."
 
 date: "2022-10-27T00:00:00Z"
 doi: ""
@@ -27,13 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the National Academy of Sciences of the USA (PNAS) 119 (44), pp. 1-8*"
-publication_short: "*Proceedings of the National Academy of Sciences of the USA (PNAS) 119 (44), pp. 1-8*"
+publication: "*Proceedings of the National Academy of Sciences of the United States of America (PNAS) 119 (44), pp. 1-8*"
+publication_short: "*Proceedings of the National Academy of Sciences of the United States of America (PNAS) 119 (44), pp. 1-8*"
 
-abstract: This study explores how researchers' analytical choices affect the reliability of scientific findings.
+abstract: This study explores how researchers' analytical choices affect the reliability of scientific findings. Most discussions of reliability problems in science focus on systematic biases. We broaden the lens to emphasize the idiosyncrasy of conscious and unconscious decisions that researchers make during data analysis. We coordinated 161 researchers in 73 research teams and observed their research decisions as they used the same data to independently test the same prominent social science hypothesis: that greater immigration reduces support for social policies among the public.
 
 # Summary. An optional shortened abstract.
-summary: This study explores how researchers' analytical choices affect the reliability of scientific findings.
+summary: This study explores how researchers' analytical choices affect the reliability of scientific findings. Most discussions of reliability problems in science focus on systematic biases. We broaden the lens to emphasize the idiosyncrasy of conscious and unconscious decisions that researchers make during data analysis. We coordinated 161 researchers in 73 research teams and observed their research decisions as they used the same data to independently test the same prominent social science hypothesis: that greater immigration reduces support for social policies among the public.
 
 tags:
 - Source Themes
