@@ -1,8 +1,8 @@
 ---
-title: "Cordons Sanitaires and the Fate of the Weimar Republic: Counterfactual Simulations of an Agent-Based Model With Coalition-Directed Voters"
+title: "Unintended Effects of Cordons Sanitaires on the Electoral Success of Isolated Parties: Counterfactual Agent-Based Simulations in an Artificial Weimar Republic with Coalition-Directed Voters"
 authors:
 - admin
-date: "2021-12-01T00:00:00Z"
+date: "2024-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).   
@@ -15,16 +15,40 @@ publishDate: "2017-12-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Working Paper*"
-publication_short: "*Working Paper*"
+publication: "*Signals for Democracy: Assessing the Impact of Pre-Electoral Coalition Signals and Cordons Sanitaires on Party Competition using Experimental, Quasi-Experimental, and Agent-Based Simulation Evidence (Dissertation), pp. 85--178*"
+publication_short: "*Signals for Democracy: Assessing the Impact of Pre-Electoral Coalition Signals and Cordons Sanitaires on Party Competition using Experimental, Quasi-Experimental, and Agent-Based Simulation Evidence (Dissertation), pp. 85--178*"
 
-abstract: Excluding extremist parties from forming governments, i.e., establishing cordons sanitaires against extremist parties, can be a decisive contribution to safeguarding democracy. The destruction of the Weimar Republic and the rise of Nazism in the 1930s serve as anecdotal evidence for this claim, as there was no such cordon sanitaire against the Nazi Party (NSDAP) and other extremist parties in Germany. Could a cordon sanitaire against extremist parties have changed the fate of the 1930s Weimar Republic? Cordons sanitares are specific coalition signals, and we can use existing theoretical knowledge about the effects of these signals to assess the question at hand. I integrate these theoretical insights into a formal agent-based model of party competition with coalition-directed voters and perform counterfactual simulations in an artificial 1930s Weimar Republic. Preliminary simulation results show that a cordon sanitaire could have resulted in the NSDAP's vote share increasing in the short run and decreasing in the longer run. The results have important implications for research on the stability of democracies.
-
+abstract: Ruling out forming coalition governments with parties critical of liberal democracy, i.e., establishing *cordons sanitaires* vis-à-vis these parties, is often seen as a crucial contribution to
+safeguarding liberal democracy. However, little is known about whether *cordons sanitaires*
+are effective in reducing the vote share of parties isolated in this way. Specifically, the effects
+of *cordons sanitaires* on voting induced by changes in voters’ expectations of post-electoral
+government formation remain unclear. I address this research gap by conceptualizing
+*cordons sanitaires* as a specific class of pre-electoral coalition signals and drawing on theoretical
+knowledge about the electoral expectation-induced consequences of coalition signals.
+I integrate these theoretical insights into a formal agent-based model of dynamic party
+competition and perform counterfactual simulations in an artificial democracy calibrated to
+resemble the 1930s Weimar Republic. The results show that the vote share of an artificial
+NSDAP increases when a *cordon sanitaire* is erected against it. By illustrating the theoretical
+possibility (not inevitability) of these unintended expectation-induced consequences, the
+paper provides important implications for research on the mainstream parties’ response to
+radical parties.
 
 
 # Summary. An optional shortened abstract.
-summary: Excluding extremist parties from forming governments, i.e., establishing cordons sanitaires against extremist parties, can be a decisive contribution to safeguarding democracy. The destruction of the Weimar Republic and the rise of Nazism in the 1930s serve as anecdotal evidence for this claim, as there was no such cordon sanitaire against the Nazi Party and other extremist parties in Germany. Could a cordon sanitaire against extremist parties have changed the fate of the 1930s Weimar Republic? Cordons sanitares are specific coalition signals, and we can use existing theoretical knowledge about the effects of these signals to assess the question at hand. I integrate these theoretical insights into a formal agent-based model of party competition with coalition-directed voters and perform counterfactual simulations in an artificial 1930s Weimar Republic.
-
+summary: Ruling out forming coalition governments with parties critical of liberal democracy, i.e., establishing *cordons sanitaires* vis-à-vis these parties, is often seen as a crucial contribution to
+safeguarding liberal democracy. However, little is known about whether *cordons sanitaires*
+are effective in reducing the vote share of parties isolated in this way. Specifically, the effects
+of *cordons sanitaires* on voting induced by changes in voters’ expectations of post-electoral
+government formation remain unclear. I address this research gap by conceptualizing
+*cordons sanitaires* as a specific class of pre-electoral coalition signals and drawing on theoretical
+knowledge about the electoral expectation-induced consequences of coalition signals.
+I integrate these theoretical insights into a formal agent-based model of dynamic party
+competition and perform counterfactual simulations in an artificial democracy calibrated to
+resemble the 1930s Weimar Republic. The results show that the vote share of an artificial
+NSDAP increases when a *cordon sanitaire* is erected against it. By illustrating the theoretical
+possibility (not inevitability) of these unintended expectation-induced consequences, the
+paper provides important implications for research on the mainstream parties’ response to
+radical parties.
 tags:
 - Source Themes
 featured: true
