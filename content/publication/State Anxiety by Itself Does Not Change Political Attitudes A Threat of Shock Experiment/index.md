@@ -26,8 +26,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Frontiers in Psychology 13, pp. 1-13*"
-publication_short: "*Frontiers in Psychology 13, pp. 1-13*"
+publication: "*Frontiers in Psychology 13, pp. 1--13*"
+publication_short: "*Frontiers in Psychology 13, pp. 1--13*"
 
 abstract: Previous research suggests that state anxiety may sway political attitudes. However, previous experimental procedures induced anxiety using political contexts (e.g., social or economic threat). In a pre-registered laboratory experiment, we set out to examine if anxiety that is unrelated to political contexts can influence political attitudes. We induced anxiety with a threat of shock paradigm, void of any political connotation. All participants were instructed that they might receive an electric stimulus during specified threat periods and none during safety periods. Participants were randomly assigned to one of two conditions. Political attitudes (implicit and explicit) were assessed under safety in one condition and under threat in the other. Psychometric, as well as physiological data (skin conductance, heart rate), confirmed that anxiety was induced successfully. However, this emotional state did not alter political attitudes. In a Bayesian analytical approach, we confirmed the absence of an effect. Our results suggest that state anxiety by itself does not sway political attitudes. Previously observed effects that were attributed to anxiety may be conditional on a political context of threat.
 

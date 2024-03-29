@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.      
-publication: "*der moderne staat 9(1), pp. 109-134*"
-publication_short: "*der moderne staat 9(1), pp. 109-134*"
+publication: "*der moderne staat 9(1), pp. 109--134*"
+publication_short: "*der moderne staat 9(1), pp. 109--134*"
 
 abstract: The German Renewable Energy Act (EEG) is an essential pillar of the energy transition in Germany and reveals objectives of the overall German energy policy. This article analyses the public discourse on the German Renewable Energy Act Amendment 2014. This allows us to detect which actors predominantly impact the discussion and which arguments they use. Our main findings are that (i) political parties and institutions dominate the discourse, (ii) the Act is criticized more often than it is defended, (iii) economically framed arguments occur much more often than ecological statements, (iv) in particular, the distributive effects of the amended EEG 2014 are criticized very often and that (v) the government as supporter of the reform is largely isolated and split by internal discussions on its evaluation.
 

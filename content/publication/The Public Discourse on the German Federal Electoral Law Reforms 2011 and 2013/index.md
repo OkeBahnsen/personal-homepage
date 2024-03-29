@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.      
-publication: "*Zeitschrift für Parlamentsfragen 51(4), pp. 844-864*"
-publication_short: "*Zeitschrift für Parlamentsfragen 51(4), pp. 844-864*"
+publication: "*Zeitschrift für Parlamentsfragen 51(4), pp. 844--864*"
+publication_short: "*Zeitschrift für Parlamentsfragen 51(4), pp. 844--864*"
 
 abstract: The German electoral law to the federal parliament was reformed in 2011 and in 2013. While political scientists have extensively evaluated consequences of these reforms, the role of the public discourse has been largely neglected. We analyze articles from three leading German newspapers (FAZ, SZ, Welt) on this topic and find the debate around the reforms to be dominated by parties and political institutions. Scientists, interest groups, and journalists have only played minor roles. Regarding content, the discourse largely focused on surplus seats, reform speed, and a proposal by the CDU/CSU‐FDP coalition government in 2011. A broad public debate in which multiple social groups could participate has not taken place. From a normative perspective this is problematic since the lack of a public debate might have contributed to the poor quality of the reform’s result.
 
