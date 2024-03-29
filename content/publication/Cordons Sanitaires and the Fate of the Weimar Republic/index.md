@@ -15,8 +15,8 @@ publishDate: "2017-12-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Signals for Democracy: Assessing the Impact of Pre-Electoral Coalition Signals and Cordons Sanitaires on Party Competition using Experimental, Quasi-Experimental, and Agent-Based Simulation Evidence (Dissertation), pp. 85--178*"
-publication_short: "*Signals for Democracy: Assessing the Impact of Pre-Electoral Coalition Signals and Cordons Sanitaires on Party Competition using Experimental, Quasi-Experimental, and Agent-Based Simulation Evidence (Dissertation), pp. 85--178*"
+publication: "*Signals for Democracy - Assessing the Impact of Pre-Electoral Coalition Signals and Cordons Sanitaires on Party Competition using Experimental, Quasi-Experimental, and Agent-Based Simulation Evidence (Dissertation), pp. 85--178*"
+publication_short: "*Signals for Democracy - Assessing the Impact of Pre-Electoral Coalition Signals and Cordons Sanitaires on Party Competition using Experimental, Quasi-Experimental, and Agent-Based Simulation Evidence (Dissertation), pp. 85--178*"
 
 abstract: Ruling out forming coalition governments with parties critical of liberal democracy, i.e., establishing *cordons sanitaires* vis-à-vis these parties, is often seen as a crucial contribution to
 safeguarding liberal democracy. However, little is known about whether *cordons sanitaires*
