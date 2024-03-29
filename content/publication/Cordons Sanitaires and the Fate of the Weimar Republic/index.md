@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Presentation (Video)
-  url: 'https://www.youtube.com/watch?v=qwODqa6KXzY'
+  url: 'https://youtu.be/qwODqa6KXzY?si=GX5vo21NRAt2sZ9H&t=3457'
 url_pdf: 
 url_code: ''
 url_dataset: ''
