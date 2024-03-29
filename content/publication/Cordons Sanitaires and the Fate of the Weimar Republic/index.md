@@ -1,5 +1,5 @@
 ---
-title: "Unintended Effects of *Cordons Sanitaires* on the Electoral Success of Isolated Parties: Counterfactual Agent-Based Simulations in an Artificial Weimar Republic with Coalition-Directed Voters"
+title: "Unintended Effects of Cordons Sanitaires on the Electoral Success of Isolated Parties: Counterfactual Agent-Based Simulations in an Artificial Weimar Republic with Coalition-Directed Voters"
 authors:
 - admin
 date: "2024-04-01T00:00:00Z"
