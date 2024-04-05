@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-url_pdf: ''
+url_pdf: 'https://www.beltz.de/fachmedien/soziologie/zeitschriften/zeitschrift_fuer_diskursforschung/37255-zeitschrift-fuer-diskursforschung-3-2018.html'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -32,7 +32,7 @@ featured: true
 
 links:
 
-url_pdf: ''
+url_pdf: 'https://www.budrich-journals.de/index.php/dms/article/view/23645'
 url_code: ''
 url_dataset: ''
 url_poster: ''
