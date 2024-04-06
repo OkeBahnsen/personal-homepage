@@ -30,11 +30,11 @@ bio: My research interests include coalition politics, voting behavior, experime
 
 # Interests to show in About widget
 interests:
-  - Coalition Politics
-  - Electoral Behavior
+  - Agent-Based Modeling
   - Causal Inference
   - Experimental Research
-  - Agent-Based Modeling
+  - Coalition Politics
+  - Electoral Behavior
 
 # Education to show in About widget
 education:

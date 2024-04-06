@@ -34,7 +34,7 @@ links:
 - name: Outreach
   url: 'https://www.thenationalnews.com/world/europe/sweden-to-face-political-uncertainty-as-far-right-makes-electoral-gains-1.768838'
 
-url_pdf: 'pdf/ES2020_Article.pdf'
+url_pdf: 'uploads/ES2020_Article.pdf'
 url_code: 'https://github.com/OkeBahnsen/academic-kickstart/tree/master/static/code/ES2020'
 url_dataset: 'https://github.com/OkeBahnsen/academic-kickstart/tree/master/static/code/ES2020/auxiliary%20files/data'
 url_poster: ''
