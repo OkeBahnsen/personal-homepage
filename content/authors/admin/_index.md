@@ -25,8 +25,7 @@ organizations:
     url: https://www.uni-mannheim.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include coalition politics, voting behavior, experimental research, and agent-based
-  modeling.
+bio: My research interests include agent-based modeling, causal inference, experimental research, coalition politics, and voting behavior.
 
 # Interests to show in About widget
 interests:
