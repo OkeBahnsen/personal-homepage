@@ -236,8 +236,8 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      # Contact (add or remove contact options as necessary)
+#      subtitle:
+#      # Contact (add or remove contact options as necessary)
       email: obahnsen@mail.uni-mannheim.de
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
@@ -257,10 +257,10 @@ sections:
 #        latitude: '37.4275'
 #        longitude: '-122.1697'  
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/okebahnsen'
+#        - icon: twitter
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://twitter.com/okebahnsen'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me
@@ -272,13 +272,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+#          captcha: false
     design:
       columns: '2'
 ---
