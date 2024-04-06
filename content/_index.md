@@ -194,7 +194,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Featured Publications and Working Papers
       count: 15
       filters:
         folders:
@@ -203,20 +203,20 @@ sections:
     design:
       columns: '2'
       view: Card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#      text: |-
+#        {{% callout note %}}
+#        Quickly discover relevant content by [filtering publications](./publication/).
+#        {{% /callout %}}
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: true
+#    design:
+#      columns: '2'
+#      view: citation
   - block: collection
     id: talks
     content:
@@ -226,7 +226,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: compact
+      view: card
 #  - block: tag_cloud
 #    content:
 #      title: Popular Topics
