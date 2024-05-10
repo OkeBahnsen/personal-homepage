@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Oke Bahnsen
+title: Dr. Oke Bahnsen
 
 # Name pronunciation (optional)
-name_pronunciation: Oke Bahnsen
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Oke
