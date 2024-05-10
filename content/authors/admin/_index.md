@@ -38,7 +38,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candidate
+    - course: Dr. rer. soc.
       institution: Graduate School of Economic and Social Sciences, University of Mannheim
       year: 2024
     - course: M.Sc. in Economics
