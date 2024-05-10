@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Oke Bahnsen
+title: Oke Bahnsen
 
 # Name pronunciation (optional)
 name_pronunciation: 
