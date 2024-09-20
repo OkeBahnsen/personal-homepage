@@ -33,7 +33,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'http://www.ronilehrer.com/docs/papers/crises_approval_fear_threat.pdf'
+url_pdf: 'https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12717?af=R'
 url_code: ''
 url_dataset: ''
 url_poster: ''
