@@ -40,16 +40,16 @@ education:
   courses:
     - course: Dr. rer. soc. (Ph.D.)
       institution: Graduate School of Economic and Social Sciences, University of Mannheim
-      year: 2024
+      year: 
     - course: M.Sc. in Economics
       institution: University of Kiel
-      year: 2019
+      year: 
     - course: M.Ed. in Mathematics and Economics/Politics
       institution: University of Kiel
-      year: 2017
+      year: 
     - course: B.A. in Mathematics and Economics/Politics
       institution: University of Kiel
-      year: 2014
+      year: 
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
